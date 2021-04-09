@@ -32,7 +32,7 @@
         "file": "rickroll.dlc", 
         "title": "Rickroll",
         "buttons": [
-            { "title": "Rickroll", "action": [75,0,4,5] }
+            { "title": "Rickroll", "action": [75,0,4,0] }
         ]
     }
 ]
