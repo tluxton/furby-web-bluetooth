@@ -28,4 +28,11 @@
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
     }
+     {
+        "file": "rickroll.dlc", 
+        "title": "rickroll",
+        "buttons": [
+            { "title": "Rickroll", "action": [75,0,4,5] }
+        ]
+    }
 ]
