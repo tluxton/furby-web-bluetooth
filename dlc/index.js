@@ -29,8 +29,8 @@
         ]
     },
     {
-        "file": "parkupz.dlc", 
-        "title": "Parkupz",
+        "file": "parkup.dlc", 
+        "title": "Parkup",
         "buttons": [
             { "title": "Parkup", "action": [75,0,4,0] }
         ]
