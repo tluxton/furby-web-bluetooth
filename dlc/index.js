@@ -29,10 +29,10 @@
         ]
     },
     {
-        "file": "parkupdc.dlc", 
-        "title": "Parkupdc",
+        "file": "parkupzdc.dlc", 
+        "title": "parkupzdc",
         "buttons": [
-            { "title": "Parkupdc", "action": [75,0,4,0] }
+            { "title": "parkupzdc", "action": [75,0,3,3] }
         ]
     }
 ]
