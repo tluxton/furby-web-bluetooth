@@ -32,7 +32,7 @@
         "file": "parkupa.dlc", 
         "title": "parkupa",
         "buttons": [
-            { "title": "parkupa", "action": [75,0,4,0] }
+            { "title": "parkupa", "action": [75,0,0,3] }
         ]
     }
 ]
