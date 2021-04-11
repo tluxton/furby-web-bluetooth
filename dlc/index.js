@@ -32,7 +32,7 @@
         "file": "parkupzdcc.dlc", 
         "title": "parkupzdcc",
         "buttons": [
-            { "title": "parkupzdcc", "action": [75,0,0,3] }
+            { "title": "parkupzdcc", "action": [75,0,4,0] }
         ]
     }
 ]
